@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se usar estes algoritmos, cite o repositório e os artigos correspondentes."
+title: "Algoritmos do laboratório: modelagem de câncer a partir do RHC/SP"
+authors:
+  - family-names: "Parro"
+    given-names: "Vanderlei Cunha"
+# acrescentar os demais autores do grupo
+version: "0.1.0"
+date-released: "2026-11-19"

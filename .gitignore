@@ -1,0 +1,21 @@
+# dados de pacientes: NUNCA versionar
+dados/
+**/dados/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+resultados/
+resultados_locais/
+**/resultados*/
+logs/
+tarefas/
+*.pt
+*.npy
+# ambiente
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv*/
+.pytest_cache/
